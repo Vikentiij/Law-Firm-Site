@@ -53,7 +53,7 @@
         }
       } 
       .banner {
-        background: url('/img/Banner.jpg');
+        background: url('../img/Banner.jpg');
         text-align: center;
         width: 100%;
         height: auto;
@@ -198,7 +198,7 @@
 
 
     .aboutbanner {
-      background: url('/img/aboutbanner.jpg');
+      background: url('../img/aboutbanner.jpg');
       text-align: center;
       width: 100%;
       height: auto;
